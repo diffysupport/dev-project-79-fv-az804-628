@@ -1,5 +1,5 @@
 basic:
-    name: 'Quigley, Becker and Windler'
+    name: 'Tillman LLC'
     environments:
         production: 'https://google.com'
         staging: ''
